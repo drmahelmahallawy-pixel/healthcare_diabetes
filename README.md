@@ -6,6 +6,15 @@ healthcare analysis
 
 ## 🎯 Project Overview
 This Power BI project provides a comprehensive analysis of diabetic patients, focusing on general patient overview, retention, and the critical factors driving hospital readmissions. The dashboard is designed to help healthcare administrators identify high-risk patient segments and improve care quality.
+## 📸 Dashboard Previews
+
+### 1. General Overview & Patient Retention
+Provides a high-level summary of the diabetic patient population, average medications, and discharge details.
+![Overview Dashboard](overview.png)
+
+### 2. Readmission Analytics & AI Insights
+Focuses on the 30-day readmission rate. This page features conditional formatting to highlight the most vulnerable patient groups and uses AI to explain the primary drivers behind increased readmission rates.
+![Readmission Analytics](readmision.png)
 
 ## 📁 Files Included
 * **`diabetes.pbix`**: The fully interactive Power BI desktop file containing the data model, DAX measures, and visuals.
